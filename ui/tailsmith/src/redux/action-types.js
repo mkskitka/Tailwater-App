@@ -1,0 +1,5 @@
+/*
+ *  Constants
+ */
+export const ADD_LOCATION_DATA = "ADD_LOCATION_DATA";
+export const ADD_ANOMALY_LOCATION_DATA = "ADD_ANOMALY_LOCATION_DATA"

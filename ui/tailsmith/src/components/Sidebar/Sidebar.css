@@ -1,0 +1,27 @@
+.Sidebar {
+    background-color: #333;
+}
+
+#alerts-container {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    float: left;
+    overflow: scroll !important;
+}
+
+.alert-menu-bar-component {
+    height: 50px;
+    width: 50%;
+    float: left;
+    position: relative;
+    font-size: 16px;
+    padding: 15px;
+}
+
+.active {
+    color: #fff;
+}
+.inactive {
+    color: #999;
+}
